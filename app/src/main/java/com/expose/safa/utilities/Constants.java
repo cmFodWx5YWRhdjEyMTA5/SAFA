@@ -6,11 +6,11 @@ package com.expose.safa.utilities;
 
 public class Constants {
 
-    public final static String CATEGORY_IMG_URL = "http://54.218.76.33/SAFA/Products/";
+    public final static String CATEGORY_IMG_URL = "http:roducts/";
 
 
-    public static final String EMAIL ="mobile.expose@gmail.com";
-    public static final String PASSWORD ="exposeisgoing!@#";
+    public static final String EMAIL =";
+    public static final String PASSWORD =;
     public static final String GT_PH_NO ="8547452226";
     public static final String FACEBOOK ="http://www.lipsum.com/feed/html";
     public static final String WEB ="http://www.lipsum.com/feed/html";
