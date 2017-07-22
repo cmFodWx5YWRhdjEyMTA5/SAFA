@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SAFA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="AboutSafa">The innovative cleaning solutions, Safa Agencies ensures clean and healthy ambience with durability. We provide quality cleaning equipments that suit your budget and requirements. Designed with extreme quality, Safa strives to give an extreme range of excellent cleaning products. Our eco-friendly production process sustains the value offered to our customers and keeps the dignified approach.</string>
+
+
+    <string name="OUR_VISION">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non risus ut purus rhoncus consectetur non sit amet sem. Sed vel eros sed turpis sagittis molestie sit amet auctor elit. In tincidunt mi eu commodo pellentesque. Vestibulum blandit ut arcu ac rutrum. Nunc pretium ut diam at condimentum. Etiam diam neque, convallis id sem sit amet, vehicula vestibulum est. Phasellus dapibus arcu nec scelerisque iaculis. Phasellus sed interdum orci. Suspendisse elementum orci nec diam iaculis volutpat et ac nibh.</string>
+
+    <string name="OUR_MISSION">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non risus ut purus rhoncus consectetur non sit amet sem. Sed vel eros sed turpis sagittis molestie sit amet auctor elit. In tincidunt mi eu commodo pellentesque. Vestibulum blandit ut arcu ac rutrum. Nunc pretium ut diam at condimentum. Etiam diam neque, convallis id sem sit amet, vehicula vestibulum est. Phasellus dapibus arcu nec scelerisque iaculis. Phasellus sed interdum orci. Suspendisse elementum orci nec diam iaculis volutpat et ac nibh.</string>
+
+    //Techzone_content
+    <string name="techzone_content">To blend technology with innovation, customers norms are keenly comprehended and cultivate the requirements with new age concepts. With great functionality and awesome look, Impex, the unique household appliances in Kerala imbibes the values of home and put the best to where finesse can be amalgamated with your desire for modification.\n\n
+        Hopefully, we are delivering 3 years warrant for LED TV, which we illuminate to your heart with enchanting features. Scattering the praiseworthy service to more than 25 Techzone service centres across Kerala with full hand support of 150 service engineers, Impex joins hands to drive your thoughts to be fulfilled with innovative makeover. Our worthy service raise your life standards to a great extent. Not only in Kerala, we are entering the real household scenario in Coimbatore, Bangalore and Mangalore. Dubai and Saudi Arabia are also served with dignified approach.</string>
+    <string name="title_activity_main_bottom">MainActivityBottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

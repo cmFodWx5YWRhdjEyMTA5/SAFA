@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clickable="true"
+   android:background="@drawable/safa_background_img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="40dp"
+        android:layout_margin="55dp"
+        android:id="@+id/Container_for_Fragments">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Connect with us"
+                        android:gravity="center_vertical"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:textColor="#fff"
+                        android:layout_marginBottom="15dp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="For support or any questions :"
+                        android:gravity="center_vertical"
+                        android:textSize="20sp"
+                        android:textColor="#f3ecec"
+                        android:layout_marginBottom="6dp"/>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="30dp"
+                        >
+
+
+                        <TextView
+                            android:id="@+id/textView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:gravity="center_vertical"
+                            android:text="Email us at"
+
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp" />
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="  support@safa.com"
+                            android:textSize="20sp"
+                            android:textColor="#006f93"
+                            android:layout_marginBottom="5dp"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginBottom="30dp">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Safa USA"
+                            android:textStyle="bold"
+                            android:textColor="#fff"
+                            android:textSize="30sp"
+                            android:layout_marginBottom="10dp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="501 Silverside Road,suite 105,wilmigton,Delaware 19809 USA"
+                            android:layout_marginBottom="5dp"
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Safa Kerala"
+                            android:layout_marginBottom="5dp"
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Safa USA"
+                            android:layout_marginBottom="5dp"
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp"/>
+
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textColor="#fff"
+                            android:textSize="30sp"
+                            android:text="Safa India"
+                            android:textStyle="bold"
+                            android:layout_marginBottom="15dp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="B-222,First Floor"
+                            android:layout_marginBottom="6dp"
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Okhla-Industrial Area,Phase-1"
+                            android:layout_marginBottom="6dp"
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="New Delhi IN - 110020"
+                            android:layout_marginBottom="6dp"
+                            android:textColor="#f3ecec"
+                            android:textSize="20sp"/>
+
+
+
+
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+
+
+
+
+
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>
