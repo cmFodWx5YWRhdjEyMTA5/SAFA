@@ -12,7 +12,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ApiClient {
 
 
-    private static final String BASE_URL="http://54.218.76.33/SAFA/";
+    private static final String BASE_URL="http:///SAFA/";
     private ApiInterface mApiInterface;
 
     public ApiInterface getApiInterface() {
